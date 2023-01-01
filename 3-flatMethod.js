@@ -1,3 +1,4 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 /*
 Array.prototype.flat()
 The flat() method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth.
@@ -8,8 +9,7 @@ const arr = [1, 2, 3, [4, 5, 6]];
 arr.flat();
 
 console.log(arr); // [1, 2, 3, 4, 5, 6]
-
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /*
 Using flat() on sparse arrays
