@@ -1,3 +1,4 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 /*
 Object.is()
 The Object.is() static method determines whether two values are the same value.
@@ -11,8 +12,7 @@ console.log(NaN === NaN); // false
 
 console.log(Object.is(NaN, 0/0)); // true
 console.log(NaN === 0/0); // false
-
-
+/////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /* more example */
 // Case 1: Evaluation result is the same as using ===
