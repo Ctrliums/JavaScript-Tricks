@@ -6,8 +6,6 @@ The Intl.NumberFormat object enables language-sensitive number formatting.
 
 let number = 10000;
 console.log(Intl.NumberFormat().format(number)); // 10,000
-
-
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /*
